@@ -1,0 +1,6 @@
+exclude:    [Gemfile, Gemfile.lock, Procfile, vendor, gems, README.md]
+permalink:  /:title/
+pygments:   true
+
+author: Robert Louis Stevenson
+lang:   en

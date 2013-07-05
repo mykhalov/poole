@@ -1,0 +1,22 @@
+---
+title:  Strange Case of Dr Jekyll and Mr Hyde
+layout: default
+---
+
+<h2>{{ site.author }}</h2>
+<h1>{{ page.title }}</h1>
+
+{% for post in site.posts limit:3 %}
+  <article>
+    <header>
+      <h1>{{ post.title }}</h1>
+      <div>{{ post.date | date_to_long_string }} · <a href="{{ post.url }}">Permalink</a></div>
+    </header>
+
+    {{ post.content }}
+  </article>
+{% endfor %}
+
+<nav>
+  <a href="/archive/">Archive</a>
+</nav>

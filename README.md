@@ -8,11 +8,11 @@ Check [an example app](http://poole.herokuapp.com/).
 
 You will need a Heroku account, Git and Heroku Toolbelt installed.
 
-  $ git clone git@github.com:growtofill/poole.git BLOG_NAME
-  $ cd BLOG_NAME
-  $ heroku create BLOG_NAME
-  $ git push heroku master
-  $ heroku open
+    $ git clone git@github.com:growtofill/poole.git BLOG_NAME
+    $ cd BLOG_NAME
+    $ heroku create BLOG_NAME
+    $ git push heroku master
+    $ heroku open
 
 
 ##Support

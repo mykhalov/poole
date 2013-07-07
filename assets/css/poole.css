@@ -1,0 +1,17 @@
+:root {
+  font: 18px Cambria, Times, sans-serif;
+}
+
+body {
+  max-width: 33em;
+  margin: 1em auto;
+  padding: 0 1em;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+.hgroup {
+  text-align: center;
+}

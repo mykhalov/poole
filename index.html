@@ -1,10 +1,14 @@
 ---
-title:  Strange Case of Dr Jekyll and Mr Hyde
+title:  Strange Case of Dr Jekyll and Mr Hyde
 layout: default
 ---
 
-<h2>{{ site.author }}</h2>
-<h1>{{ page.title }}</h1>
+<header class="hgroup">
+  <h2>{{ site.author }}</h2>
+  <h1>{{ page.title }}</h1>
+</header>
+
+<hr>
 
 {% for post in site.posts limit:3 %}
   <article>
@@ -16,6 +20,8 @@ layout: default
     {{ post.content }}
   </article>
 {% endfor %}
+
+<hr>
 
 <nav>
   <a href="/archive/">Archive</a>

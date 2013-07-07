@@ -2,10 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<div>{{ page.date | date_to_long_string }}</div>
+<header>
+  <h1>{{ page.title }}</h1>
+  <div>{{ page.date | date_to_long_string }}</div>
+</header>
 
 {{ content }}
+
+<hr>
 
 <nav>
   <a href="/">Blog</a> · <a href="/archive/">Archive</a>

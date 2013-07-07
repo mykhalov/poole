@@ -15,3 +15,7 @@ ol {
 .hgroup {
   text-align: center;
 }
+
+.small {
+  font-size: smaller;
+}

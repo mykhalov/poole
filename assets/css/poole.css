@@ -4,8 +4,8 @@
 
 body {
   max-width: 33em;
-  margin: 1em auto;
-  padding: 0 1em;
+  margin: 0.5em auto;
+  padding: 0 0.5em;
 }
 
 ol {
@@ -18,4 +18,8 @@ ol {
 
 .small {
   font-size: smaller;
+}
+
+.colophon {
+  float: right;
 }

@@ -18,3 +18,6 @@ You will need a Heroku account, Git and Heroku Toolbelt installed.
 ##Support
 
 Need help? You can tweet me [@growtofill](https://twitter.com/growtofill).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/growtofill/poole/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

@@ -30,10 +30,10 @@ GEM
       yajl-ruby (~> 1.1.0)
     safe_yaml (0.7.1)
     syntax (1.0.0)
-    yajl-ruby (1.1.0-x86-mingw32)
+    yajl-ruby (1.1.0)
 
 PLATFORMS
-  x86-mingw32
+  ruby
 
 DEPENDENCIES
   jekyll

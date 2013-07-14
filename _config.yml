@@ -1,4 +1,4 @@
-exclude:    [Gemfile, Gemfile.lock, Procfile, vendor, gems, README.md]
+exclude:    [Gemfile, Gemfile.lock, Procfile, vendor, gems, LICENSE, README.md]
 permalink:  /:title/
 pygments:   true
 

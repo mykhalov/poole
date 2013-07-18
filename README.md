@@ -14,6 +14,10 @@ You will need a Heroku account, Git and Heroku Toolbelt installed.
     $ git push heroku master
     $ heroku open
 
+##Credits
+
+Favicon is from [Jory Raphael's](https://twitter.com/sensibleworld/) Year of Icons.
+
 ##Support
 
 Need help? You can tweet me [@growtofill](https://twitter.com/growtofill).

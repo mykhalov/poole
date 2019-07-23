@@ -1,10 +1,10 @@
-#Poole
+# Poole
 
 Poole is a simple template to quickly start with [Jekyll](http://jekyllrb.com/). It comes with layouts, includes, config and syntax highlight support. There is also a sample post and an assets file linked.
 
 Poole can be deployed on [Heroku](https://www.heroku.com/) in 10 seconds. Check out [an example app](http://poole.herokuapp.com/).
 
-##Deployment
+## Deployment
 
 You will need a Heroku account, Git and Heroku Toolbelt installed.
 
@@ -14,11 +14,11 @@ You will need a Heroku account, Git and Heroku Toolbelt installed.
     $ git push heroku master
     $ heroku open
 
-##Credits
+## Credits
 
 Favicon is from [Jory Raphael's](https://twitter.com/sensibleworld/) Year of Icons.
 
-##Support
+## Support
 
 Need help? You can tweet me [@growtofill](https://twitter.com/growtofill).
 
